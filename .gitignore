@@ -1,0 +1,22 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+*.bak
+*.backup
+
+# Log Files
+*.log
+
+# Don't ignore the dashboard
+!index.html
+!README.md
